@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(35, 32, 32);
+}
+
+.main{
+    border: 2px solid yellow;
+    width: 40%;
+    padding: 5%;
+    margin-top: 30%;
+    
+}
+button{
+    height: 30px;
+    width: 6%;
+    border-radius: 50% 50%;
+    border: 2px solid yellow;
+    background-color: rgb(239, 239, 120);
+    
+    
+    
+}
+input{
+    width: 30%;
+    height: 35px;
+    border-radius: 15% ;
+    border: 2px solid yellow;
+    background-color: rgb(239, 239, 120);
+}
